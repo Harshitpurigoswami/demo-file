@@ -1,4 +1,4 @@
 # demo-file
 This is my demo file for revision
 <br>
-Author - Harshit goswmai
+Author - Harshit Goswmai
